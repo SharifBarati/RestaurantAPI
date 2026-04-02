@@ -45,7 +45,7 @@ The Djoser library is used to automatically generate authentication endpoints.
 | /api/groups/delivery-crew/users              | Manager  | POST   | Assigns user to delivery crew 
 | /api/groups/delivery-crew/users/{userId}     | Manager  | DELETE | Removes user from delivery crew 
 
-# 🛒 Cart Management
+# Cart Management
 | Endpoint                    | Role     | Method | Purpose 
 |-----------------------------|----------|--------|---------
 | /api/cart/menu-items        | Customer | GET    | Retrieves cart items for current user 
