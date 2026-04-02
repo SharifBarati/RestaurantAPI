@@ -1,2 +1,5 @@
 # RestaurantAPI
 This is a Django fully functional API project for a restaurant, aiming to enable client application developers to use the APIs to develop web and mobile applications. People with different roles will be able to browse, add, and edit menu items, place orders, browse orders, assign delivery crew to orders and finally deliver the orders. 
+
+# Project Structure Description
+This project is a RESTful API called LittleLemonAPI, designed to manage a restaurant system with core functionalities such as menu management, user carts, and order processing. It is built with a well-structured architecture that includes models for Categories, MenuItems, Cart, Orders, and OrderItems, ensuring a clear separation of concerns. All models are fully serialised, enabling efficient data validation and seamless communication between the backend and client applications. The API supports essential operations such as browsing menu items, adding items to a cart, and placing orders, making it a solid foundation for a scalable food ordering system.
